@@ -18,9 +18,12 @@ import com.xy.as.ijkplayer.widget.CenterView;
 
 
 /**
- * 包含手势操作的VideoController
- * Created by xinyu on 2018/1/6.
- */
+ * Autor:Administrator
+ * CreatedTime:2019/12/14 0014
+ * UpdateTime:2019/12/14 0014 13:54
+ * Des:播放器手势自定义
+ * UpdateContent:
+ **/
 
 public abstract class GestureVideoController extends BaseVideoController {
 
